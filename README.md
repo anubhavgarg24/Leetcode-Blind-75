@@ -1,4 +1,4 @@
-# Leetcode-Blind-75
+# [NEETCODE-Blind-75](https://neetcode.io/practice)
 
 ## Problem and Solution Links
 
@@ -6,7 +6,7 @@
 
 | #   | Problem                         | Difficulty | Solution Link | Status      |
 |-----|---------------------------------|------------|---------------|-------------|
-| 1   | Contains Duplicate              | Easy       | [Link](#)     | Not Started |
+| 1   | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/)              | Easy       | [Link](#)     | Not Started |
 | 2   | Valid Anagram                   | Easy       | [Link](#)     | Not Started |
 | 3   | Two Sum                         | Easy       | [Link](#)     | Not Started |
 | 4   | Group Anagrams                  | Medium     | [Link](#)     | Not Started |
