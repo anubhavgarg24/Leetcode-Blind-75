@@ -36,7 +36,7 @@
 
 | #   | Problem                         | Difficulty | Solution Link | Status      |
 |-----|---------------------------------|------------|---------------|-------------|
-| 1   | Valid Parentheses               | Easy       | [Link](#)     | Not Started |
+| 1   | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/)               | Easy       | [Link](https://leetcode.com/problems/valid-parentheses/solutions/5688654/don-t-get-into-comparison-hell/)     | ✅ |
 
 ## Binary Search (2 Problems)
 
